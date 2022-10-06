@@ -2,7 +2,7 @@
 Calibration Tool for the SCD-30 CO₂ sensors with the I2C interface such as those sold by Adafruit. Intended for use when calibrating multiple sensors for the [DIY Frugal Arduino CO2 Sensor] (https://github.com/ericwooshem/DIY-Frugal-Arduino-CO2-Sensor/tree/main/Graphics)
 ![Calibration Tool](https://github.com/bwooshem/SCD-30-CO2-Sensor-Calbiration-Tool/blob/main/CO2_Recalibrator_Tool.png)
 
-##Instructions
+## Instructions
 Instructions are a work in-progress. 
 1. Assemble the [DIY Frugal Arduino CO2 Sensor] (https://github.com/ericwooshem/DIY-Frugal-Arduino-CO2-Sensor/tree/main/Graphics)
 2. Add 3x push buttons and resistors (anything 1kΩ - 100kΩ is fine) to each of ports A0, A1, and A2. See [the official Arduino instructions for push button circuits](https://docs.arduino.cc/built-in-examples/digital/Button)
