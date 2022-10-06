@@ -11,6 +11,12 @@ Instructions are a work in-progress.
 5. When the target "SetTo:" value is correct, push the button on A0 once to run the calibration. The screen will display "Calibrated!" for a few seconds. It will continue to display CO₂ readings under the "CO2:" heading; leave it running for at least 30 seconds to verify it was set correctly (it may not have set correctly if the CO₂ concentration varied at the moment the button was pressed). 
 6. To calibrate additional sensors, simply swap the sensor port to a new sensor. The machine may automatically restart; that is okay.
 
+
+## Contributors
+[Eric Woo-Shem](https://github.com/ericwooshem): Design of original sensor, Arduino & circuit debugging, review & editing.
+
+[Brian Woo-Shem](https://www.brianwooshem.com): Design & programming for calibration tool, documentation, testing and validation.
+
 ## License
 
 All text, graphics, and non-code content is licensed [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)    
